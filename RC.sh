@@ -1,5 +1,5 @@
 #!/bin/bash
-#Geraldine's Remote control script
+#Remote control script
 #This script is created to communicate with a remote server and execute tasks anonymously, tool check will be performed before execution. 
 #There are 3 parts to the script: 1)Welcome banner 2)Checking for tools:curl,nipe and sshpass 3)Execution
 
